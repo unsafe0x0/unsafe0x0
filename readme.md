@@ -8,6 +8,7 @@ wants to work with me or have a career opportunity mail me at unsafezero@gmail.c
 
 projects that i have built in last few months are:
 
+- [heloq](https://github.com/unsafe0x0/heloq) : jwt like token library
 - [ai-sdk](https://github.com/unsafe0x0/ai) : ai sdk built using golang
 - [dither](https://github.com/unsafe0x0/dither) : dither image generation web using dithering algorithm
 - [unsafezero](https://github.com/unsafe0x0/unsafezero) : experimental projects
